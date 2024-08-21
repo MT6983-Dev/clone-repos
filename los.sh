@@ -4,3 +4,4 @@ git clone https://gitlab.com/Aghora7/android_vendor_oneplus_vitamin vendor/onepl
 git clone https://github.com/LineageOS/android_hardware_oneplus hardware/oneplus
 git clone https://github.com/LineageOS/android_hardware_mediatek hardware/mediatek
 git clone https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr.git device/mediatek/sepolicy_vndr
+git clone https://github.com/MT6983-Dev/android_hardware_oplus hardware/oplus
